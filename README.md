@@ -49,3 +49,5 @@ Below is a summary of the key sections and their purposes:
 ### 12. **Final Visualisation**
    - **Ingredient-Rating Correlation:** We create a heatmap to show the relationship between the number of ingredients and recipe ratings.
    - **Interactive Plot:** An interactive scatter plot lets you explore how recipe ratings change with the number of ingredients.
+
+## Note: The final plot may not be processed due to the dynamic nature of plotly visualizations, thus a link to the colab notebook is embedded in the notebook.The map is also uploaded as a separate file.
