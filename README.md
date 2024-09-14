@@ -53,4 +53,8 @@ Below is a summary of the key sections and their purposes:
    - **Ingredient-Rating Correlation:** We create a heatmap to show the relationship between the number of ingredients and recipe ratings.
    - **Interactive Plot:** An interactive scatter plot lets you explore how recipe ratings change with the number of ingredients.
 
-## Note: The final plot may not be processed due to the dynamic nature of plotly visualizations, thus a link to the colab notebook is embedded in the notebook.The map is also uploaded as a separate file.
+## Note: The two plots may not be processed due to the dynamic nature of plotly visualizations, thus a link to the colab notebook is embedded in the notebook.The individual plots have also been uploaded as separate files.
+The plot titled: ingredients-rating-plot : comes after thered-blue correlation matrix
+The plot titled Country-festival-dish-plot is the one towards the end of the notebook.
+
+Thank you!
